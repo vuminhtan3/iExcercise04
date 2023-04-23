@@ -51,3 +51,23 @@ func dayBeforeAfter(_ date: String) {
 }
 
 */
+
+func dayBeforeAfter() {
+    
+    print("Nhập vào ngày dạng dd/MM/yyyy: ")
+    let inputDate = readLine() ?? "01/01/1900"
+    
+    let dateFormater = DateFormatter()
+    dateFormater.dateFormat = "dd/MM/yyyy"
+    let date = dateFormater.date(from: inputDate)
+    
+    let calendar = Calendar.current
+    
+    let previousDate = calendar.date(byAdding: .day, value: -1, to: date!)!
+    
+    let nextDate = calendar.date(byAdding: .day, value: 1, to: date!)!
+    
+    print("Ngày nhập vào là là: \(inputDate)")
+    print("Ngày liền trước ngày đó là: \(dateFormater.string(from: previousDate))")
+    print("Ngày liền sau ngày đó là: \(dateFormater.string(from: nextDate))")
+}

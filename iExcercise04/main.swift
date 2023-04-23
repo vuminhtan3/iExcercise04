@@ -21,6 +21,8 @@ var numbers = [4,3,8,7,1,9,0]
 //isSymmetricalNumber(n: 01210)
 
 //quadraticEquation()
-taxiFare()
+//taxiFare()
+
+dayBeforeAfter()
 
 
