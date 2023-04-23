@@ -22,7 +22,5 @@ var numbers = [4,3,8,7,1,9,0]
 
 //quadraticEquation()
 taxiFare()
-var n: Int
-while n < 1 || n > 10 {
-    print(<#T##items: Any...##Any#>)
-}
+
+
