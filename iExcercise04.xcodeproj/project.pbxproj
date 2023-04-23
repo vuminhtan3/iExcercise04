@@ -8,6 +8,17 @@
 
 /* Begin PBXBuildFile section */
 		B49E25C129F2CD910027C9C7 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = B49E25C029F2CD910027C9C7 /* main.swift */; };
+		B49E25C829F2CDA60027C9C7 /* Bai0.swift in Sources */ = {isa = PBXBuildFile; fileRef = B49E25C729F2CDA60027C9C7 /* Bai0.swift */; };
+		B49E25DD29F2FFF50027C9C7 /* B1DemSoNguyenTo.swift in Sources */ = {isa = PBXBuildFile; fileRef = B49E25DC29F2FFF50027C9C7 /* B1DemSoNguyenTo.swift */; };
+		B4A5274829F388460052CB01 /* B2InThangTrongNam.swift in Sources */ = {isa = PBXBuildFile; fileRef = B4A5274729F388460052CB01 /* B2InThangTrongNam.swift */; };
+		B4A5274A29F38D270052CB01 /* B3NgayThangTruocSau.swift in Sources */ = {isa = PBXBuildFile; fileRef = B4A5274929F38D270052CB01 /* B3NgayThangTruocSau.swift */; };
+		B4A5274C29F512AB0052CB01 /* B4SapXepMangTangDan.swift in Sources */ = {isa = PBXBuildFile; fileRef = B4A5274B29F512AB0052CB01 /* B4SapXepMangTangDan.swift */; };
+		B4A5274E29F51C570052CB01 /* B5ChenXSauMax.swift in Sources */ = {isa = PBXBuildFile; fileRef = B4A5274D29F51C570052CB01 /* B5ChenXSauMax.swift */; };
+		B4A5275029F555810052CB01 /* B6.ChenXMangTangDan.swift in Sources */ = {isa = PBXBuildFile; fileRef = B4A5274F29F555810052CB01 /* B6.ChenXMangTangDan.swift */; };
+		B4A5275229F55AB60052CB01 /* B7.TongChuSo.swift in Sources */ = {isa = PBXBuildFile; fileRef = B4A5275129F55AB60052CB01 /* B7.TongChuSo.swift */; };
+		B4A5275429F56AE10052CB01 /* B8.TinhDoiXung.swift in Sources */ = {isa = PBXBuildFile; fileRef = B4A5275329F56AE10052CB01 /* B8.TinhDoiXung.swift */; };
+		B4A5275629F56F170052CB01 /* B9.GPTBac2.swift in Sources */ = {isa = PBXBuildFile; fileRef = B4A5275529F56F170052CB01 /* B9.GPTBac2.swift */; };
+		B4A5275829F577EE0052CB01 /* B10.TinhCuocTaxi.swift in Sources */ = {isa = PBXBuildFile; fileRef = B4A5275729F577EE0052CB01 /* B10.TinhCuocTaxi.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -25,6 +36,17 @@
 /* Begin PBXFileReference section */
 		B49E25BD29F2CD910027C9C7 /* iExcercise04 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = iExcercise04; sourceTree = BUILT_PRODUCTS_DIR; };
 		B49E25C029F2CD910027C9C7 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
+		B49E25C729F2CDA60027C9C7 /* Bai0.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Bai0.swift; sourceTree = "<group>"; };
+		B49E25DC29F2FFF50027C9C7 /* B1DemSoNguyenTo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = B1DemSoNguyenTo.swift; sourceTree = "<group>"; };
+		B4A5274729F388460052CB01 /* B2InThangTrongNam.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = B2InThangTrongNam.swift; sourceTree = "<group>"; };
+		B4A5274929F38D270052CB01 /* B3NgayThangTruocSau.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = B3NgayThangTruocSau.swift; sourceTree = "<group>"; };
+		B4A5274B29F512AB0052CB01 /* B4SapXepMangTangDan.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = B4SapXepMangTangDan.swift; sourceTree = "<group>"; };
+		B4A5274D29F51C570052CB01 /* B5ChenXSauMax.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = B5ChenXSauMax.swift; sourceTree = "<group>"; };
+		B4A5274F29F555810052CB01 /* B6.ChenXMangTangDan.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = B6.ChenXMangTangDan.swift; sourceTree = "<group>"; };
+		B4A5275129F55AB60052CB01 /* B7.TongChuSo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = B7.TongChuSo.swift; sourceTree = "<group>"; };
+		B4A5275329F56AE10052CB01 /* B8.TinhDoiXung.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = B8.TinhDoiXung.swift; sourceTree = "<group>"; };
+		B4A5275529F56F170052CB01 /* B9.GPTBac2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = B9.GPTBac2.swift; sourceTree = "<group>"; };
+		B4A5275729F577EE0052CB01 /* B10.TinhCuocTaxi.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = B10.TinhCuocTaxi.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +80,17 @@
 			isa = PBXGroup;
 			children = (
 				B49E25C029F2CD910027C9C7 /* main.swift */,
+				B49E25C729F2CDA60027C9C7 /* Bai0.swift */,
+				B49E25DC29F2FFF50027C9C7 /* B1DemSoNguyenTo.swift */,
+				B4A5274729F388460052CB01 /* B2InThangTrongNam.swift */,
+				B4A5274929F38D270052CB01 /* B3NgayThangTruocSau.swift */,
+				B4A5274B29F512AB0052CB01 /* B4SapXepMangTangDan.swift */,
+				B4A5274D29F51C570052CB01 /* B5ChenXSauMax.swift */,
+				B4A5274F29F555810052CB01 /* B6.ChenXMangTangDan.swift */,
+				B4A5275129F55AB60052CB01 /* B7.TongChuSo.swift */,
+				B4A5275329F56AE10052CB01 /* B8.TinhDoiXung.swift */,
+				B4A5275529F56F170052CB01 /* B9.GPTBac2.swift */,
+				B4A5275729F577EE0052CB01 /* B10.TinhCuocTaxi.swift */,
 			);
 			path = iExcercise04;
 			sourceTree = "<group>";
@@ -120,7 +153,18 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				B4A5275029F555810052CB01 /* B6.ChenXMangTangDan.swift in Sources */,
+				B4A5275429F56AE10052CB01 /* B8.TinhDoiXung.swift in Sources */,
+				B4A5275629F56F170052CB01 /* B9.GPTBac2.swift in Sources */,
+				B49E25C829F2CDA60027C9C7 /* Bai0.swift in Sources */,
+				B4A5275229F55AB60052CB01 /* B7.TongChuSo.swift in Sources */,
+				B49E25DD29F2FFF50027C9C7 /* B1DemSoNguyenTo.swift in Sources */,
 				B49E25C129F2CD910027C9C7 /* main.swift in Sources */,
+				B4A5274C29F512AB0052CB01 /* B4SapXepMangTangDan.swift in Sources */,
+				B4A5274A29F38D270052CB01 /* B3NgayThangTruocSau.swift in Sources */,
+				B4A5275829F577EE0052CB01 /* B10.TinhCuocTaxi.swift in Sources */,
+				B4A5274E29F51C570052CB01 /* B5ChenXSauMax.swift in Sources */,
+				B4A5274829F388460052CB01 /* B2InThangTrongNam.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
